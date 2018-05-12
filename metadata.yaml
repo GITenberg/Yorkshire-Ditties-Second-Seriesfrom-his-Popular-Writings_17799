@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7408'
     url: http://www.gutenberg.org/2009/agents/7408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17799#Yorkshire-Ditties-Second-Seriesfrom-his-Popular-Writings
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
