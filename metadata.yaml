@@ -1,0 +1,43 @@
+_repo: Yorkshire-Ditties-Second-Seriesfrom-his-Popular-Writings_17799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, John
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7408'
+    url: http://www.gutenberg.org/2009/agents/7408
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry of places'
+- !lcsh 'Yorkshire (England) -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+tableOfContents: Th' Better Part -- Done Agean -- Latter Wit -- My Gronfayther's Days
+  -- Heart Brocken -- To a Daisy -- A Bad Sooart -- All we Had -- Give it 'em Hot
+  -- Th' Honest Hard Worker -- Niver Heed -- Sing On -- What aw Want -- What it is
+  to be Mother -- What is It -- Come thi Ways! -- Advice to Jenny -- Ther's mich Expected
+  -- A Strange Stooary -- Take Heart -- Did yo Iver -- An Old Man's Christmas Morning
+  -- Billy Bumble's Bargain -- Moral -- Rejected -- Duffin Johnie -- Lost Love --
+  Th' Traitle Sop -- To Let -- Fault Finders -- Disapointment -- Work Away -- New
+  Machinery &c -- September Month -- A Hawporth -- Buttermilk &c -- It's a comfort
+  -- Progress -- Try Again -- Jealousy -- Winter -- Persevere -- Booith-Taan Election
+  -- Election -- None think Alike -- Seaside
+title: 'Yorkshire Ditties, Second Series
+
+  To which is added The Cream of Wit and Humour
+
+  from his Popular Writings'
+url: http://www.gutenberg.org/ebooks/17799
